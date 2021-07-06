@@ -30,12 +30,12 @@ h1{
 }
 .order-button{
     text-decoration: none;
-    background-image: linear-gradient(salmon,tomato);
+    background-image:linear-gradient(orange,tomato);
     border-radius: 20px;
-    padding:15px 32px;
+    padding:15px 40px;
     color:white;
     font-weight:400;
-    width:800px;
+    width: 900px;
     margin-top:10px 2px;
 }
 .second-section{
@@ -48,6 +48,17 @@ text-align: center;
 .recipies p{
     text-align: center;
 }
+.recepie-items{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    border: 1px gray;
+   
+}
+
 footer{
     background-color: black;
     height: 300px;
